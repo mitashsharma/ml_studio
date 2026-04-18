@@ -1,0 +1,180 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #f4f6f9;
+}
+
+/* Navbar */
+nav {
+    background: #2c3e50;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav h2 {
+    color: white;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 16px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Container */
+.container {
+    padding: 40px;
+}
+
+/* Card */
+.card {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+/* User Info */
+.user-info p {
+    margin: 8px 0;
+    font-size: 16px;
+}
+
+/* Upload Section */
+input[type="file"] {
+    margin-top: 10px;
+}
+
+/* Button */
+button {
+    padding: 10px 20px;
+    background: #3498db;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #2980b9;
+}
+
+/* Tools List */
+.tools ul {
+    list-style: none;
+    margin-top: 10px;
+}
+
+.tools li {
+    padding: 12px;
+    background: #ecf0f1;
+    margin-bottom: 10px;
+    border-radius: 6px;
+}
+
+/* Flash Message */
+.flash {
+    background: #2ecc71;
+    color: white;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+/* File list */
+.card ul {
+    list-style: none;
+    margin-top: 10px;
+}
+
+.card li {
+    padding: 10px;
+    background: #ecf0f1;
+    margin-bottom: 8px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* View button */
+.card a {
+    background: #27ae60;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.card a:hover {
+    background: #1e8449;
+}
+
+/* Table styling */
+.table-container {
+    overflow-x: auto;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+.table th, .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.table th {
+    background: #3498db;
+    color: white;
+}
+
+.train-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.train-btn:hover {
+    background-color: #45a049;
+}
+
+.result-box {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #e7f5e6;
+    border-left: 5px solid #4CAF50;
+    border-radius: 5px;
+}
+
+.close-btn {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    float: right;
+}
+
+.close-btn:hover {
+    background-color: #e60000;
+}

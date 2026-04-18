@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/dashboard.css') }}">
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <nav>
+        <h2>ML Studio</h2>
+        <div>
+            <a href="{{ url_for('auth.dashboard') }}">Dashboard</a>
+            <a href="{{ url_for('auth.logout') }}">Logout</a>
+        </div>
+    </nav>
+
+    <div class="container">
+
+        <!-- Flash Messages -->
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+                {% for msg in messages %}
+                    <div class="flash">{{ msg }}</div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+        <!-- User Info -->
+        {% if current_user.is_authenticated %}
+        <div class="card user-info">
+            <h3>Welcome, {{ current_user.username }} 👋</h3>
+            <p><strong>Email:</strong> {{ current_user.email }}</p>
+        </div>
+        {% endif %}
+
+        <!-- Upload Section -->
+        <div class="card tools">
+            <h3>Upload Dataset</h3>
+
+            <form action="{{ url_for('auth.upload_file') }}" method="POST" enctype="multipart/form-data">
+                <input type="file" name="file" required>
+                <br><br>
+                <button type="submit">Upload</button>
+            </form>
+        </div>
+
+        <!-- Uploaded Files -->
+        <div class="card">
+            <h3>Uploaded Files</h3>
+
+            {% if files %}
+                <ul>
+                    {% for file in files %}
+                        <li>
+                            {{ file }}
+
+                            {% if file.endswith('.csv') %}
+                                <a href="{{ url_for('auth.dashboard', file=file) }}">
+                                    View
+                                </a>
+                            {% endif %}
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% else %}
+                <p>No files uploaded yet</p>
+            {% endif %}
+        </div>
+
+        <!-- CSV Table -->
+        {% if table %}
+        <div class="card" id="tableCard">
+            <h3>
+                Viewing:
+                {% if selected_file %}
+                    {{ selected_file }}
+                {% endif %}
+            </h3>
+
+            <button class="close-btn" onclick="closeTable()">✖</button>
+
+            <div class="table-container">
+                {{ table|safe }}
+            </div>
+        </div>
+        {% endif %}
+
+        <form method="POST" action="{{ url_for('dashboard.train') }}">
+            <input type="hidden" name="filename" value="{{ selected_file }}">
+            
+            <button class="train-btn" type="submit">
+                🚀 Train Model
+            </button>
+            {% if accuracy %}
+                <div class="result-box">
+                    <h3>Model Accuracy: {{ accuracy }}</h3>
+                </div>
+            {% endif %}
+        </form>
+
+        <!-- Graph Section -->
+        {% if graph %}
+        <div class="card">
+            <h3>Graph View</h3>
+
+            <img src="{{ url_for('static', filename=graph) }}" width="100%">
+        </div>
+        {% endif %}
+
+        <div class="card tools">
+            <h3>Coming Features</h3>
+            <ul>
+                <li>📊 View Results</li>
+            </ul>
+        </div>
+
+    
+    </div>
+<script>
+function closeTable() {
+    document.getElementById("tableCard").style.display = "none";
+}
+</script>
+</body>
+</html>
