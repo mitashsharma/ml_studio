@@ -33,6 +33,8 @@ Flask + scikit-learn JSON API   ⟷   React + Vite + Tailwind single-page app
 
 ## 🚀 Quick start
 
+**Prerequisites:** Python 3.10+ and Node.js 18+ (developed on Python 3.11 / Node 22).
+
 ```bash
 # 1. Backend
 python3 -m venv .venv
