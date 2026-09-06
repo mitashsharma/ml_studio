@@ -54,6 +54,9 @@ Want data to play with straight away?
 python scripts/seed_demo.py     # demo@mlstudio.dev / demo12345 + 3 trained models
 ```
 
+Prefer the terminal? `python scripts/demo_run.py` drives the whole flow over the REST API
+(sign-up → import → profile → train → evaluate → predict → download) and prints the results.
+
 ### Single-process mode
 
 Build the front end once and Flask serves everything on port 5000:
@@ -109,7 +112,9 @@ ml-studio/
 │       ├── lib/             # API client, formatters
 │       └── pages/           # Dashboard, Datasets, Train, Experiments, Guide…
 ├── samples/                 # 5 ready-to-use datasets
-├── scripts/seed_demo.py     # demo workspace generator
+├── scripts/
+│   ├── seed_demo.py         # demo workspace generator
+│   └── demo_run.py          # narrated end-to-end API walkthrough
 ├── tests/test_api.py        # end-to-end API tests
 ├── run.py                   # dev entry point
 ├── dev.sh / Makefile        # convenience runners
