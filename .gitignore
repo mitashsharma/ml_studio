@@ -1,4 +1,25 @@
 __pycache__/
-*.pyc
-instances/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Runtime data (uploads, sqlite db, trained model artifacts)
+instance/
+uploads/
 *.db
+*.sqlite3
+*.joblib
+
+# Frontend
+node_modules/
+frontend/dist/
+frontend/.vite/
+.env
+.env.local
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,901 @@
+neighbourhood,area_sqm,bedrooms,bathrooms,age_years,garage,condition,price_usd
+Hillcrest,150.0,2,2,6,yes,good,811100.0
+Northgate,175.7,3,4,52,no,poor,428200.0
+Marina,188.5,5,4,47,no,good,930200.0
+Riverside,135.3,5,4,35,no,excellent,731400.0
+Old Town,168.8,3,4,13,yes,excellent,806000.0
+Northgate,142.5,2,3,69,yes,good,506200.0
+Riverside,160.4,2,3,31,no,excellent,781800.0
+Northgate,149.1,5,4,55,no,fair,549000.0
+Marina,103.6,1,1,67,yes,fair,619200.0
+Hillcrest,154.0,1,1,78,yes,good,723800.0
+Old Town,194.5,1,1,63,yes,good,680100.0
+Old Town,111.5,4,4,53,yes,excellent,603300.0
+Old Town,144.2,5,4,77,yes,good,553100.0
+Old Town,184.9,5,4,71,yes,poor,575300.0
+Hillcrest,106.9,2,3,2,no,good,712800.0
+Hillcrest,163.2,5,4,44,yes,fair,741800.0
+Northgate,107.3,1,1,25,yes,excellent,544900.0
+Marina,,5,4,56,yes,fair,893000.0
+Hillcrest,259.1,3,4,10,yes,fair,992300.0
+Northgate,246.0,4,3,67,yes,fair,712700.0
+Riverside,145.1,1,1,77,no,fair,519300.0
+Riverside,188.3,5,4,7,yes,good,837000.0
+Hillcrest,160.4,2,2,60,yes,fair,664700.0
+Riverside,159.6,2,3,37,no,poor,533900.0
+Riverside,224.6,5,4,79,no,good,799000.0
+Hillcrest,95.6,3,3,48,no,good,622800.0
+Hillcrest,202.5,1,2,75,no,fair,783700.0
+Northgate,152.8,2,1,4,yes,good,620000.0
+Hillcrest,218.4,2,1,48,yes,poor,709500.0
+Hillcrest,163.4,1,1,63,yes,poor,621200.0
+Hillcrest,124.7,3,2,4,no,fair,698700.0
+Riverside,167.5,3,3,57,no,fair,597200.0
+Riverside,188.1,4,4,67,yes,excellent,807800.0
+Riverside,156.6,4,3,74,no,poor,511400.0
+Marina,177.0,1,2,43,no,good,903000.0
+Riverside,131.5,4,4,29,no,good,657500.0
+Old Town,59.0,5,4,67,yes,good,394800.0
+Riverside,195.5,1,1,37,yes,good,741600.0
+Northgate,186.5,4,4,25,yes,fair,660100.0
+Riverside,161.7,5,4,72,no,fair,606500.0
+Old Town,158.1,2,3,62,no,poor,400700.0
+Northgate,201.6,2,1,32,no,excellent,740200.0
+Hillcrest,134.4,3,2,3,no,poor,613400.0
+Northgate,123.2,2,2,66,no,fair,409800.0
+Hillcrest,146.5,2,1,17,yes,good,784100.0
+Marina,208.5,5,4,33,no,good,1044500.0
+Riverside,92.6,4,4,3,yes,good,622900.0
+Hillcrest,208.6,5,4,27,no,fair,847800.0
+Hillcrest,126.2,4,4,72,yes,fair,628800.0
+Northgate,105.5,4,4,22,no,good,558200.0
+Old Town,211.7,4,4,5,no,fair,717800.0
+Hillcrest,150.6,2,1,17,yes,fair,720600.0
+Riverside,96.5,1,1,14,no,good,567400.0
+Old Town,138.9,3,4,34,no,fair,543700.0
+Old Town,196.9,5,4,12,yes,excellent,843700.0
+Riverside,208.6,5,4,12,yes,fair,787800.0
+Northgate,135.8,4,4,20,yes,good,597700.0
+Old Town,173.3,2,2,66,yes,good,607300.0
+Northgate,,2,1,22,no,good,680600.0
+Hillcrest,126.0,5,4,77,no,good,691600.0
+Hillcrest,171.0,3,3,59,yes,poor,638500.0
+Hillcrest,153.6,4,4,7,yes,good,872600.0
+Marina,130.9,2,3,30,yes,good,844900.0
+Riverside,132.9,3,4,4,yes,poor,558600.0
+Old Town,158.0,4,3,14,yes,good,688900.0
+Riverside,156.3,5,4,0,yes,good,770300.0
+Old Town,129.6,1,1,28,yes,good,546500.0
+Riverside,135.8,2,3,74,yes,good,560000.0
+Northgate,205.1,2,1,78,no,good,613500.0
+Riverside,164.6,4,3,5,no,good,723400.0
+Marina,194.8,4,4,25,yes,excellent,1110600.0
+Old Town,209.1,4,4,54,no,good,754600.0
+Northgate,181.5,4,4,59,no,excellent,705800.0
+Marina,257.2,2,1,24,no,good,1093100.0
+Riverside,117.9,1,1,39,no,fair,489000.0
+Northgate,191.4,3,3,15,yes,fair,650600.0
+Northgate,140.7,1,1,42,no,poor,418100.0
+Northgate,238.5,4,4,19,yes,fair,755800.0
+Hillcrest,231.5,4,4,13,yes,fair,902800.0
+Riverside,67.1,3,2,55,yes,good,469000.0
+Riverside,,5,4,12,yes,good,633100.0
+Northgate,,1,1,1,no,good,697500.0
+Hillcrest,190.5,3,4,37,yes,fair,755500.0
+Riverside,188.1,5,4,69,no,good,693000.0
+Northgate,151.8,2,3,29,no,fair,550300.0
+Hillcrest,175.5,5,4,45,no,excellent,940400.0
+Hillcrest,184.4,1,1,15,yes,poor,679700.0
+Old Town,151.5,1,1,18,yes,fair,566200.0
+Old Town,201.2,2,1,13,yes,good,722400.0
+Riverside,53.3,5,4,16,no,fair,452900.0
+Riverside,183.5,4,4,48,yes,excellent,787200.0
+Northgate,108.5,3,2,52,yes,good,462300.0
+Hillcrest,198.1,1,2,25,yes,fair,782100.0
+Hillcrest,144.7,1,1,50,yes,poor,591100.0
+Old Town,115.0,5,4,31,yes,fair,542600.0
+Marina,171.8,5,4,25,yes,good,953100.0
+Riverside,114.0,1,1,13,no,fair,553700.0
+Old Town,113.9,3,3,26,yes,poor,438600.0
+Riverside,84.5,3,3,25,no,good,483200.0
+Riverside,153.8,4,4,37,no,fair,563800.0
+Northgate,177.4,1,1,67,yes,excellent,676700.0
+Marina,201.0,5,4,72,no,good,947400.0
+Old Town,148.6,3,2,19,yes,good,623100.0
+Hillcrest,202.2,3,4,43,yes,excellent,991500.0
+Northgate,155.8,2,1,9,no,excellent,661900.0
+Old Town,150.8,1,1,67,no,fair,504600.0
+Hillcrest,180.8,5,4,26,yes,good,893100.0
+Marina,,5,4,51,no,fair,928500.0
+Old Town,139.6,5,4,72,yes,fair,512700.0
+Hillcrest,144.0,4,4,44,yes,fair,653100.0
+Marina,147.8,3,4,72,yes,fair,765600.0
+Northgate,158.7,5,4,39,yes,fair,568900.0
+Riverside,114.5,1,2,75,yes,fair,450600.0
+Northgate,201.3,2,1,54,yes,good,688800.0
+Riverside,137.0,3,3,50,yes,fair,554300.0
+Marina,175.8,4,4,39,no,poor,780400.0
+Northgate,117.9,2,3,78,no,good,435700.0
+Riverside,171.1,5,4,58,yes,fair,625900.0
+Old Town,172.6,2,3,46,yes,good,656800.0
+Northgate,136.1,2,2,14,no,fair,499400.0
+Riverside,245.9,2,2,66,yes,good,842800.0
+Hillcrest,171.7,3,2,25,yes,fair,781300.0
+Marina,235.0,5,4,7,no,good,1124400.0
+Hillcrest,198.2,2,3,69,yes,excellent,945900.0
+Marina,125.2,3,2,54,no,fair,712500.0
+Riverside,137.8,1,1,31,no,good,593900.0
+Riverside,174.6,3,3,42,yes,good,732700.0
+Old Town,157.8,2,1,67,yes,poor,453700.0
+Riverside,157.2,3,3,22,yes,poor,584400.0
+Old Town,142.1,2,3,75,yes,excellent,581000.0
+Northgate,73.6,2,3,9,no,fair,403100.0
+Hillcrest,144.9,1,2,46,yes,good,739000.0
+Old Town,55.2,3,3,57,yes,good,363900.0
+Old Town,171.7,4,4,8,no,excellent,794600.0
+Northgate,122.3,4,4,22,yes,fair,507300.0
+Old Town,122.8,3,4,60,yes,good,547900.0
+Northgate,145.1,5,4,48,yes,good,578600.0
+Hillcrest,167.3,3,3,53,yes,good,805800.0
+Hillcrest,90.6,4,4,53,no,poor,542300.0
+Northgate,76.3,2,1,23,yes,fair,394300.0
+Marina,107.0,4,4,2,yes,good,819500.0
+Hillcrest,63.1,2,2,69,no,good,512900.0
+Old Town,111.5,1,2,9,yes,fair,519800.0
+Northgate,226.6,4,3,38,no,good,750500.0
+Old Town,107.5,3,3,69,yes,good,501000.0
+Northgate,184.3,3,3,4,yes,good,732700.0
+Riverside,93.3,4,4,57,yes,fair,487900.0
+Old Town,168.5,3,2,5,no,good,681900.0
+Hillcrest,140.6,4,4,9,yes,fair,733300.0
+Northgate,152.3,3,2,18,yes,fair,555900.0
+Old Town,180.6,5,4,28,yes,fair,660800.0
+Northgate,234.0,3,4,48,yes,excellent,876200.0
+Marina,163.8,3,2,28,yes,poor,748800.0
+Marina,160.6,5,4,65,yes,excellent,989000.0
+Hillcrest,111.2,5,4,6,no,poor,614500.0
+Northgate,181.3,2,3,7,yes,poor,573800.0
+Old Town,143.9,2,1,18,yes,fair,518300.0
+Old Town,192.4,3,4,1,yes,fair,686000.0
+Riverside,153.0,1,1,20,yes,excellent,730400.0
+Riverside,233.3,4,4,49,no,excellent,934900.0
+Riverside,65.8,4,4,53,yes,excellent,528000.0
+Northgate,141.7,1,1,32,no,fair,477300.0
+Northgate,194.7,2,1,25,yes,poor,536800.0
+Riverside,139.2,5,4,35,no,good,673700.0
+Hillcrest,119.4,1,2,44,no,excellent,750500.0
+Hillcrest,143.0,3,3,65,yes,fair,621400.0
+Hillcrest,92.9,4,4,12,no,excellent,784700.0
+Marina,160.4,2,3,73,no,poor,641000.0
+Old Town,264.8,2,2,30,yes,good,902300.0
+Northgate,206.5,4,4,77,no,good,651000.0
+Hillcrest,105.1,3,3,24,yes,excellent,782700.0
+Hillcrest,115.7,5,4,62,yes,excellent,784900.0
+Hillcrest,136.8,1,1,37,no,poor,565900.0
+Riverside,200.2,4,3,0,no,good,828600.0
+Riverside,118.0,2,3,2,yes,fair,611900.0
+Old Town,,5,4,12,yes,good,633100.0
+Marina,194.8,3,4,47,yes,poor,801800.0
+Northgate,193.9,1,1,46,no,fair,591400.0
+Marina,138.2,5,4,13,yes,good,895100.0
+Riverside,104.7,3,2,76,no,poor,429000.0
+Northgate,85.3,1,1,26,no,good,432800.0
+Northgate,123.5,4,4,6,no,excellent,678300.0
+Northgate,54.6,3,4,44,yes,poor,290100.0
+Hillcrest,188.7,5,4,41,no,excellent,1000600.0
+Northgate,126.6,4,4,9,no,good,596600.0
+Riverside,176.7,4,3,31,yes,fair,663300.0
+Riverside,239.1,2,3,50,yes,excellent,985500.0
+Riverside,207.8,4,4,32,yes,good,832100.0
+Old Town,103.2,1,2,29,no,good,482100.0
+Riverside,194.1,2,1,21,yes,fair,695500.0
+Riverside,207.1,3,4,31,no,excellent,913100.0
+Hillcrest,121.4,3,2,21,yes,fair,690400.0
+Riverside,112.1,2,2,15,no,fair,541800.0
+Hillcrest,150.1,3,4,19,no,fair,752700.0
+Riverside,82.9,2,3,9,no,poor,466200.0
+Marina,221.2,5,4,8,no,excellent,1200800.0
+Riverside,46.8,5,4,23,yes,good,478700.0
+Old Town,105.2,5,4,44,no,good,504000.0
+Northgate,,2,2,6,yes,excellent,685400.0
+Hillcrest,144.8,4,3,35,yes,good,815000.0
+Northgate,162.5,5,4,52,no,fair,567200.0
+Marina,167.2,5,4,57,no,good,876000.0
+Hillcrest,145.4,5,4,37,no,good,779600.0
+Riverside,206.2,1,2,51,yes,fair,693600.0
+Hillcrest,58.7,1,1,44,no,fair,460600.0
+Riverside,155.0,4,4,76,no,fair,560900.0
+Northgate,122.8,2,3,67,yes,good,484900.0
+Northgate,161.0,3,2,27,yes,fair,528200.0
+Northgate,164.9,3,2,4,no,excellent,752400.0
+Riverside,114.0,4,4,70,yes,fair,509900.0
+Old Town,126.2,4,3,0,no,fair,572500.0
+Old Town,190.7,2,2,30,no,fair,602500.0
+Riverside,170.7,4,4,19,no,fair,656600.0
+Hillcrest,124.4,3,4,52,no,fair,617900.0
+Marina,246.8,3,3,1,no,good,1136500.0
+Old Town,258.9,5,4,64,no,excellent,936700.0
+Northgate,89.2,2,2,49,yes,fair,386600.0
+Marina,,1,1,31,yes,excellent,1040800.0
+Riverside,267.9,4,4,0,no,fair,920300.0
+Marina,190.3,2,1,35,no,good,914700.0
+Northgate,164.9,2,1,44,no,fair,508000.0
+Riverside,145.6,3,2,50,yes,excellent,744600.0
+Hillcrest,130.6,5,4,30,yes,fair,697800.0
+Hillcrest,145.4,5,4,8,yes,good,873600.0
+Hillcrest,130.2,4,4,14,no,poor,662900.0
+Riverside,188.5,2,3,42,no,good,708900.0
+Marina,137.1,5,4,18,yes,fair,813800.0
+Hillcrest,135.1,5,4,7,yes,good,825200.0
+Northgate,100.9,1,1,30,yes,good,443300.0
+Northgate,152.8,2,3,17,yes,fair,541200.0
+Old Town,114.8,1,1,31,yes,good,508400.0
+Marina,146.9,2,1,49,yes,excellent,947700.0
+Northgate,201.9,4,4,13,yes,fair,680700.0
+Northgate,171.5,3,3,77,no,good,561600.0
+Riverside,177.7,1,2,10,yes,fair,661900.0
+Riverside,171.0,4,4,79,no,fair,562000.0
+Marina,157.7,3,4,29,yes,good,945500.0
+Riverside,149.3,5,4,20,yes,good,670300.0
+Hillcrest,141.1,2,1,56,no,good,681100.0
+Northgate,189.2,5,4,11,yes,excellent,851900.0
+Old Town,106.2,4,3,49,no,good,471500.0
+Old Town,215.3,2,3,41,no,fair,676500.0
+Hillcrest,156.5,2,2,66,no,good,747400.0
+Marina,121.3,4,4,35,yes,good,816900.0
+Riverside,133.0,4,3,18,no,excellent,739700.0
+Old Town,124.5,4,4,30,no,good,554300.0
+Riverside,162.2,3,2,9,no,good,725600.0
+Marina,122.7,2,1,61,yes,fair,685700.0
+Northgate,206.4,3,4,11,yes,excellent,864900.0
+Old Town,119.8,4,4,56,no,fair,506200.0
+Old Town,52.7,2,2,30,yes,good,408900.0
+Hillcrest,122.1,5,4,44,yes,excellent,858100.0
+Riverside,64.6,1,1,32,yes,fair,422200.0
+Riverside,153.2,3,3,49,no,excellent,695900.0
+Old Town,202.7,2,1,60,yes,fair,617600.0
+Hillcrest,184.1,5,4,46,no,poor,704500.0
+Riverside,94.8,1,1,42,no,good,458200.0
+Marina,120.7,1,1,54,yes,good,780100.0
+Hillcrest,235.0,4,4,36,no,good,976300.0
+Old Town,169.3,1,1,74,no,excellent,633500.0
+Riverside,155.2,5,4,7,no,fair,648500.0
+Marina,202.5,4,4,75,no,excellent,1056000.0
+Riverside,265.4,5,4,19,yes,fair,890300.0
+Riverside,213.3,2,3,78,yes,fair,658000.0
+Riverside,161.3,4,4,47,no,fair,617100.0
+Riverside,171.0,3,4,68,yes,good,629800.0
+Northgate,182.8,3,2,2,yes,good,740800.0
+Old Town,127.4,3,2,8,no,good,569000.0
+Old Town,107.4,1,1,10,no,fair,422700.0
+Northgate,157.4,1,1,36,no,good,542000.0
+Hillcrest,112.4,1,2,1,no,excellent,783500.0
+Riverside,,4,4,62,yes,poor,539300.0
+Old Town,159.3,2,3,71,no,fair,491500.0
+Northgate,260.3,4,4,23,yes,excellent,990600.0
+Old Town,116.7,4,4,22,yes,excellent,639800.0
+Marina,149.5,1,1,48,no,excellent,956600.0
+Riverside,147.6,2,3,69,no,fair,544300.0
+Marina,174.7,2,1,4,no,good,983600.0
+Marina,202.1,1,2,41,yes,poor,755000.0
+Northgate,132.9,5,4,16,yes,good,629800.0
+Marina,118.0,2,2,39,no,good,751700.0
+Old Town,81.2,5,4,32,no,fair,454700.0
+Riverside,113.3,5,4,31,yes,good,637600.0
+Hillcrest,179.1,5,4,5,no,fair,788800.0
+Marina,157.1,4,4,71,yes,poor,671600.0
+Riverside,109.3,3,4,33,yes,poor,454400.0
+Old Town,138.2,3,2,72,no,good,487200.0
+Hillcrest,156.4,2,2,18,yes,poor,639300.0
+Marina,177.7,4,4,67,no,excellent,986500.0
+Northgate,128.3,3,2,68,no,excellent,505400.0
+Riverside,143.7,5,4,62,yes,excellent,724700.0
+Riverside,,1,2,25,no,good,485700.0
+Marina,103.2,2,3,53,yes,poor,571500.0
+Hillcrest,227.8,3,4,30,yes,fair,868500.0
+Marina,56.5,2,1,77,yes,fair,529800.0
+Northgate,139.8,2,3,64,yes,fair,466000.0
+Northgate,164.9,3,2,33,no,poor,479700.0
+Northgate,138.2,1,1,44,no,excellent,587400.0
+Marina,118.6,4,3,73,yes,excellent,875700.0
+Old Town,152.3,2,1,4,yes,good,664700.0
+Hillcrest,154.8,4,4,16,no,fair,745100.0
+Riverside,151.3,1,1,17,yes,excellent,789800.0
+Marina,70.5,4,4,1,yes,excellent,906900.0
+Marina,148.4,3,4,48,yes,fair,774000.0
+Marina,116.5,5,4,54,no,fair,712700.0
+Old Town,130.4,4,4,15,yes,fair,593200.0
+Old Town,165.2,5,4,59,yes,good,631000.0
+Old Town,183.8,4,4,19,yes,excellent,839600.0
+Riverside,195.4,1,1,70,no,poor,541400.0
+Northgate,132.7,5,4,49,yes,good,550300.0
+Hillcrest,196.6,2,1,37,yes,fair,773800.0
+Old Town,207.8,5,4,39,yes,excellent,834700.0
+Hillcrest,206.1,3,2,14,no,fair,820500.0
+Marina,217.5,4,4,21,yes,good,1026300.0
+Old Town,148.4,1,1,26,yes,fair,589200.0
+Northgate,147.2,5,4,44,yes,good,636200.0
+Northgate,192.1,4,4,38,yes,excellent,815500.0
+Old Town,93.5,3,2,50,no,excellent,516000.0
+Riverside,164.4,3,3,63,yes,excellent,762200.0
+Marina,131.1,4,3,3,yes,fair,838700.0
+Northgate,138.4,1,1,66,yes,fair,463900.0
+Riverside,76.6,2,1,21,yes,fair,476000.0
+Marina,114.9,1,2,9,yes,fair,718300.0
+Northgate,154.1,3,2,24,yes,fair,565600.0
+Northgate,195.0,2,2,61,yes,good,627800.0
+Riverside,199.6,5,4,70,no,poor,573700.0
+Riverside,151.4,5,4,60,yes,fair,575800.0
+Northgate,146.5,3,2,4,yes,good,637800.0
+Riverside,117.6,4,3,8,yes,good,672100.0
+Riverside,173.1,3,4,27,yes,excellent,804100.0
+Hillcrest,143.9,3,2,0,yes,fair,776900.0
+Old Town,182.3,4,3,15,no,poor,613800.0
+Marina,233.8,2,1,20,yes,excellent,1186500.0
+Riverside,153.5,2,2,55,yes,fair,560400.0
+Northgate,87.6,1,1,48,no,good,388200.0
+Riverside,116.3,5,4,64,no,poor,477800.0
+Marina,89.4,4,4,2,no,poor,639400.0
+Riverside,101.1,1,1,4,yes,good,551400.0
+Hillcrest,213.7,5,4,57,no,good,912800.0
+Riverside,165.2,2,2,69,no,good,576500.0
+Old Town,86.6,5,4,51,yes,good,489400.0
+Old Town,184.4,1,1,55,no,good,643000.0
+Marina,211.7,1,2,77,yes,fair,843200.0
+Hillcrest,138.8,2,2,17,no,poor,628600.0
+Riverside,124.6,5,4,59,yes,fair,558000.0
+Northgate,139.8,5,4,73,yes,good,559200.0
+Northgate,167.8,4,4,72,yes,fair,543400.0
+Northgate,183.8,1,2,23,no,fair,568300.0
+Riverside,208.2,4,4,2,yes,good,861700.0
+Old Town,209.6,2,1,63,no,good,670500.0
+Riverside,208.3,4,4,10,yes,fair,799500.0
+Riverside,216.3,3,4,5,yes,excellent,1011500.0
+Riverside,184.8,5,4,47,yes,excellent,858700.0
+Hillcrest,86.1,4,4,36,no,poor,507300.0
+Riverside,,2,2,58,yes,good,600400.0
+Riverside,169.1,4,4,40,no,fair,636300.0
+Northgate,137.8,2,1,14,yes,fair,551000.0
+Hillcrest,196.0,2,1,71,no,poor,648600.0
+Riverside,138.8,2,1,35,no,poor,489200.0
+Marina,113.3,2,2,66,yes,poor,578600.0
+Old Town,220.0,3,3,51,yes,fair,699800.0
+Hillcrest,185.0,5,4,43,yes,good,884300.0
+Old Town,164.9,3,3,21,yes,poor,547100.0
+Hillcrest,196.7,1,2,4,yes,excellent,1023100.0
+Hillcrest,202.8,4,3,5,no,excellent,1095300.0
+Hillcrest,170.3,1,2,34,yes,fair,724600.0
+Old Town,45.0,3,2,37,yes,good,416300.0
+Marina,124.6,2,1,30,yes,excellent,932800.0
+Northgate,134.5,5,4,67,no,fair,477600.0
+Riverside,110.7,3,4,79,yes,good,542700.0
+Riverside,163.9,3,2,7,yes,good,733400.0
+Riverside,208.6,5,4,54,yes,fair,704700.0
+Northgate,133.2,3,4,58,yes,fair,475900.0
+Northgate,103.9,4,4,32,yes,poor,399600.0
+Riverside,246.3,3,3,31,yes,good,899400.0
+Northgate,134.7,3,4,29,yes,fair,524800.0
+Riverside,99.5,3,3,32,yes,good,575400.0
+Hillcrest,165.7,3,3,61,no,excellent,878300.0
+Hillcrest,174.2,3,4,71,yes,fair,650900.0
+Northgate,123.3,4,4,7,yes,fair,547600.0
+Riverside,,3,4,10,yes,excellent,867300.0
+Old Town,133.1,4,4,65,yes,good,561100.0
+Hillcrest,113.5,4,3,10,no,good,720200.0
+Riverside,163.0,2,3,53,yes,fair,600700.0
+Riverside,189.7,1,1,5,yes,good,797100.0
+Hillcrest,126.5,1,1,34,yes,fair,597800.0
+Northgate,169.9,3,3,2,yes,good,694900.0
+Marina,,2,2,56,no,fair,738300.0
+Northgate,282.1,2,3,45,yes,poor,658800.0
+Marina,123.1,4,3,31,yes,excellent,954300.0
+Marina,217.3,3,3,55,yes,good,998900.0
+Northgate,,4,4,11,no,excellent,710700.0
+Marina,149.3,1,1,50,yes,fair,727500.0
+Marina,187.5,4,4,33,no,fair,944000.0
+Old Town,195.2,3,4,33,no,fair,641900.0
+Riverside,212.0,1,1,4,yes,fair,703300.0
+Marina,169.8,3,2,67,yes,fair,765500.0
+Riverside,128.0,5,4,6,no,fair,606400.0
+Northgate,130.8,3,3,24,yes,fair,508700.0
+Hillcrest,177.9,2,3,35,yes,fair,755900.0
+Old Town,181.1,1,2,57,yes,excellent,686700.0
+Northgate,217.9,5,4,66,yes,good,738200.0
+Riverside,173.8,2,3,7,no,excellent,822200.0
+Hillcrest,202.7,3,4,16,no,poor,719200.0
+Riverside,223.3,3,4,29,yes,fair,750600.0
+Northgate,162.4,3,3,40,yes,excellent,684700.0
+Hillcrest,88.1,1,1,10,no,poor,533900.0
+Northgate,101.9,5,4,78,no,poor,364800.0
+Old Town,,1,1,22,no,good,454300.0
+Northgate,226.6,4,3,66,no,fair,646200.0
+Marina,,2,1,61,no,fair,663100.0
+Hillcrest,210.4,4,4,72,no,good,908300.0
+Northgate,181.4,1,1,72,yes,good,561600.0
+Old Town,232.2,1,1,53,yes,fair,681000.0
+Old Town,200.1,5,4,24,yes,good,793000.0
+Marina,150.4,4,4,47,no,good,845700.0
+Northgate,146.0,5,4,14,no,excellent,715000.0
+Old Town,158.8,2,1,46,yes,poor,489600.0
+Marina,162.9,4,4,16,yes,fair,854300.0
+Riverside,131.1,1,1,48,yes,good,585600.0
+Hillcrest,153.5,4,4,59,yes,poor,648600.0
+Marina,227.4,1,1,37,yes,excellent,1162000.0
+Riverside,78.4,4,4,62,yes,excellent,545300.0
+Marina,166.6,3,4,28,yes,fair,850000.0
+Riverside,114.2,4,3,42,no,good,625300.0
+Northgate,163.4,2,2,19,no,fair,536400.0
+Hillcrest,192.8,1,2,28,yes,excellent,974800.0
+Old Town,,4,4,5,yes,fair,644300.0
+Marina,189.8,3,2,74,yes,poor,732600.0
+Hillcrest,83.5,1,1,29,yes,poor,510200.0
+Marina,204.8,3,3,54,yes,good,975800.0
+Riverside,127.9,1,1,61,yes,poor,458500.0
+Hillcrest,183.0,5,4,46,no,excellent,987300.0
+Hillcrest,163.2,5,4,44,yes,good,824000.0
+Northgate,45.0,3,4,64,yes,good,332800.0
+Riverside,121.0,2,3,13,no,good,614000.0
+Hillcrest,164.9,4,3,7,no,good,848100.0
+Hillcrest,224.9,3,3,65,no,excellent,1000400.0
+Hillcrest,167.9,4,3,70,yes,good,758200.0
+Riverside,166.6,2,3,3,yes,good,761300.0
+Hillcrest,91.4,2,2,42,yes,fair,604300.0
+Riverside,,2,3,74,no,fair,704600.0
+Riverside,236.3,5,4,35,no,fair,817000.0
+Northgate,156.3,3,3,52,no,fair,495500.0
+Riverside,145.1,4,4,29,yes,poor,587400.0
+Hillcrest,82.1,4,4,44,no,excellent,687600.0
+Marina,194.7,4,4,26,yes,fair,912800.0
+Marina,276.6,1,1,33,yes,good,1166200.0
+Hillcrest,187.3,5,4,63,no,poor,656000.0
+Northgate,211.9,5,4,66,no,good,716500.0
+Hillcrest,179.4,2,3,17,no,good,859200.0
+Hillcrest,110.7,5,4,0,yes,poor,628200.0
+Northgate,215.2,5,4,76,yes,excellent,774600.0
+Marina,99.4,3,3,1,no,fair,737900.0
+Hillcrest,145.5,3,4,41,yes,fair,690800.0
+Old Town,167.5,2,2,41,yes,good,656900.0
+Hillcrest,194.7,2,1,50,yes,fair,782500.0
+Old Town,173.7,2,1,23,no,excellent,705700.0
+Marina,,1,1,10,no,fair,819900.0
+Old Town,120.7,1,1,32,yes,fair,470900.0
+Hillcrest,97.0,5,4,77,yes,good,607700.0
+Marina,,2,1,42,no,excellent,928400.0
+Hillcrest,123.0,2,2,35,no,excellent,781800.0
+Old Town,96.1,5,4,3,yes,fair,520800.0
+Northgate,98.0,3,2,74,no,good,365800.0
+Old Town,132.9,1,2,78,no,good,466300.0
+Northgate,71.6,2,3,4,no,good,457300.0
+Marina,94.4,4,4,54,yes,fair,649900.0
+Old Town,81.4,2,3,61,yes,excellent,455100.0
+Marina,,4,4,7,no,good,988200.0
+Riverside,173.4,3,2,29,no,fair,668900.0
+Old Town,245.3,1,1,59,no,fair,641700.0
+Northgate,87.6,1,1,69,yes,fair,308500.0
+Hillcrest,124.4,1,1,42,yes,excellent,776100.0
+Hillcrest,196.1,5,4,23,no,good,893500.0
+Marina,145.2,4,4,54,no,good,838300.0
+Marina,140.3,1,2,26,yes,excellent,940200.0
+Hillcrest,231.9,4,4,59,yes,fair,868900.0
+Old Town,139.8,1,1,1,yes,excellent,640500.0
+Riverside,103.0,2,3,79,no,fair,383500.0
+Old Town,95.7,4,4,21,yes,poor,413100.0
+Old Town,170.1,5,4,9,yes,fair,685800.0
+Old Town,168.7,2,1,9,no,good,660800.0
+Northgate,93.3,2,1,79,yes,fair,307600.0
+Old Town,110.7,1,1,74,yes,excellent,507000.0
+Old Town,179.1,3,4,38,yes,good,705000.0
+Old Town,181.0,3,2,61,yes,good,639100.0
+Hillcrest,126.1,1,2,16,yes,fair,657600.0
+Northgate,183.0,4,4,74,yes,good,636900.0
+Northgate,180.7,4,4,29,yes,good,716500.0
+Old Town,74.8,1,2,47,yes,fair,375400.0
+Old Town,141.0,1,2,29,no,good,581300.0
+Northgate,173.7,1,1,8,no,excellent,718600.0
+Hillcrest,129.2,1,1,71,yes,excellent,722500.0
+Marina,58.7,1,2,61,yes,fair,534300.0
+Riverside,142.3,4,4,41,no,poor,529100.0
+Northgate,188.8,2,2,79,yes,excellent,665500.0
+Old Town,226.1,3,2,5,yes,good,823800.0
+Hillcrest,56.4,4,3,34,yes,excellent,683600.0
+Riverside,272.6,4,4,57,yes,good,934900.0
+Old Town,104.3,3,3,27,yes,fair,501800.0
+Northgate,198.1,4,4,39,yes,excellent,769600.0
+Northgate,210.5,1,2,14,no,good,731700.0
+Hillcrest,199.2,4,3,65,yes,good,846200.0
+Marina,161.7,2,2,20,yes,excellent,1007200.0
+Hillcrest,,1,2,3,yes,good,684800.0
+Old Town,183.2,1,1,13,yes,excellent,806100.0
+Hillcrest,122.8,4,3,69,yes,fair,636200.0
+Riverside,45.0,5,4,40,yes,fair,399900.0
+Old Town,282.3,1,2,71,yes,good,808500.0
+Marina,186.9,2,1,41,yes,good,927700.0
+Marina,236.8,2,3,0,no,good,1090600.0
+Riverside,114.0,3,4,64,no,good,574400.0
+Marina,,3,3,38,no,good,986900.0
+Northgate,226.5,4,3,8,yes,excellent,879200.0
+Old Town,225.0,1,2,9,no,good,780400.0
+Riverside,154.0,3,2,5,yes,excellent,806200.0
+Marina,100.9,1,1,42,no,good,714400.0
+Riverside,147.0,5,4,54,yes,excellent,760000.0
+Hillcrest,55.9,4,4,7,yes,poor,560400.0
+Old Town,78.4,5,4,46,no,poor,366200.0
+Hillcrest,159.1,4,3,70,no,good,736400.0
+Old Town,110.4,4,3,72,no,fair,392500.0
+Hillcrest,147.6,2,1,14,no,excellent,873400.0
+Hillcrest,150.1,5,4,21,yes,fair,773200.0
+Hillcrest,241.9,2,3,53,yes,good,945600.0
+Riverside,213.4,2,1,60,no,fair,687300.0
+Northgate,153.0,2,3,52,yes,good,568200.0
+Old Town,209.4,3,2,47,yes,excellent,850100.0
+Old Town,119.9,3,3,25,no,excellent,633200.0
+Old Town,139.8,2,2,74,yes,fair,451500.0
+Riverside,196.0,3,4,17,yes,good,793300.0
+Old Town,99.1,2,2,52,yes,good,435200.0
+Marina,142.4,5,4,73,yes,fair,717300.0
+Marina,95.6,1,1,51,yes,good,706500.0
+Riverside,160.3,1,2,3,yes,excellent,820900.0
+Riverside,228.5,2,2,15,no,excellent,986800.0
+Old Town,121.2,5,4,20,yes,fair,550600.0
+Marina,165.2,2,1,74,yes,good,824300.0
+Hillcrest,114.6,5,4,26,yes,excellent,818400.0
+Northgate,103.3,2,1,18,yes,fair,468200.0
+Marina,99.4,2,2,46,no,excellent,817000.0
+Hillcrest,220.5,1,1,35,yes,good,893700.0
+Marina,261.3,4,4,29,no,excellent,1293000.0
+Marina,176.7,5,4,10,yes,poor,825100.0
+Old Town,122.8,5,4,8,no,excellent,654100.0
+Old Town,186.7,1,2,23,no,excellent,779800.0
+Old Town,140.0,4,4,45,yes,fair,548700.0
+Hillcrest,191.1,3,2,1,yes,good,912400.0
+Riverside,168.1,2,3,57,yes,poor,531000.0
+Old Town,,4,4,20,yes,good,738900.0
+Hillcrest,182.3,4,4,56,yes,good,874800.0
+Riverside,128.9,5,4,52,yes,good,663700.0
+Riverside,,5,4,39,yes,excellent,720500.0
+Riverside,,5,4,50,yes,fair,452300.0
+Old Town,135.1,1,1,24,yes,fair,536400.0
+Northgate,,4,3,15,yes,excellent,544500.0
+Riverside,148.5,3,2,0,yes,poor,561800.0
+Riverside,111.9,1,1,44,no,fair,435100.0
+Riverside,159.6,1,2,42,yes,fair,630000.0
+Hillcrest,175.4,2,1,9,no,good,863900.0
+Riverside,91.1,5,4,50,yes,good,554700.0
+Hillcrest,118.4,4,4,18,no,excellent,841600.0
+Riverside,112.6,4,3,35,yes,good,589000.0
+Old Town,188.6,5,4,37,yes,excellent,814900.0
+Marina,231.8,1,1,76,yes,good,976100.0
+Riverside,193.3,3,4,49,no,excellent,813600.0
+Hillcrest,,4,4,16,yes,fair,757400.0
+Old Town,220.9,4,3,24,no,fair,705700.0
+Old Town,86.9,4,4,65,no,good,422700.0
+Northgate,222.5,1,2,10,yes,good,794400.0
+Riverside,,1,2,57,yes,good,552200.0
+Northgate,45.0,3,4,32,yes,excellent,435700.0
+Northgate,274.3,3,4,71,yes,fair,736400.0
+Marina,226.0,2,3,32,no,fair,882600.0
+Riverside,108.6,4,4,73,yes,good,550200.0
+Marina,162.6,2,2,13,no,good,881000.0
+Hillcrest,145.3,2,3,18,yes,fair,738700.0
+Marina,159.6,1,1,35,yes,poor,668800.0
+Riverside,88.3,3,3,73,no,poor,334600.0
+Northgate,124.3,4,3,70,yes,fair,455900.0
+Northgate,176.1,5,4,32,no,fair,616700.0
+Riverside,165.0,2,1,68,yes,fair,570400.0
+Old Town,,4,4,54,yes,poor,575000.0
+Riverside,158.6,1,2,78,yes,fair,558100.0
+Northgate,260.7,3,2,76,yes,fair,666700.0
+Northgate,122.8,5,4,65,no,poor,398200.0
+Northgate,166.7,1,1,47,yes,fair,508400.0
+Hillcrest,68.8,2,1,29,yes,good,582800.0
+Marina,98.6,1,1,46,no,excellent,805000.0
+Marina,214.8,3,2,65,no,excellent,1060200.0
+Hillcrest,112.6,5,4,5,yes,good,788300.0
+Northgate,178.9,3,3,29,no,fair,607100.0
+Hillcrest,152.2,4,3,47,yes,fair,671900.0
+Old Town,108.0,2,1,60,yes,good,442800.0
+Hillcrest,139.3,5,4,19,yes,good,806000.0
+Riverside,131.9,2,3,22,yes,good,627700.0
+Marina,133.1,3,2,31,yes,good,848000.0
+Marina,188.9,2,1,60,yes,good,862300.0
+Old Town,184.4,3,4,30,yes,excellent,817600.0
+Northgate,129.0,2,1,7,no,poor,463500.0
+Marina,114.2,3,3,77,no,fair,650300.0
+Old Town,167.7,2,1,29,yes,poor,494000.0
+Riverside,150.5,4,4,51,yes,good,664700.0
+Riverside,201.3,2,1,31,yes,good,753100.0
+Riverside,274.5,2,1,57,yes,fair,813700.0
+Old Town,192.9,1,1,60,yes,poor,519900.0
+Old Town,153.4,3,2,13,yes,good,671700.0
+Northgate,147.3,1,2,10,no,fair,521700.0
+Old Town,116.4,3,4,24,no,fair,535600.0
+Northgate,114.2,5,4,6,no,fair,471600.0
+Marina,109.8,4,4,70,no,excellent,811600.0
+Northgate,137.2,3,4,76,yes,fair,475100.0
+Old Town,135.8,2,3,9,no,good,574900.0
+Riverside,188.5,5,4,23,no,fair,726800.0
+Marina,137.0,1,2,76,yes,good,736100.0
+Riverside,146.1,1,1,47,no,fair,539000.0
+Riverside,100.2,1,1,34,yes,fair,457500.0
+Marina,229.0,2,3,12,no,good,1055500.0
+Marina,177.8,1,1,31,no,good,901600.0
+Riverside,235.5,1,1,27,no,fair,740800.0
+Old Town,190.9,5,4,41,no,excellent,797600.0
+Northgate,222.0,3,2,52,no,excellent,840200.0
+Old Town,143.8,4,3,35,yes,fair,560500.0
+Marina,187.3,3,2,16,yes,good,963500.0
+Riverside,,4,4,37,yes,good,983600.0
+Northgate,99.9,4,4,47,yes,fair,456600.0
+Riverside,207.9,3,3,33,yes,good,826700.0
+Hillcrest,231.4,5,4,69,yes,fair,888900.0
+Riverside,174.0,1,1,56,yes,excellent,717700.0
+Hillcrest,189.4,5,4,71,yes,poor,706600.0
+Northgate,212.6,3,4,22,yes,excellent,880400.0
+Riverside,124.8,1,1,38,no,fair,507000.0
+Old Town,173.8,5,4,13,yes,fair,671500.0
+Marina,115.0,4,4,74,no,poor,541300.0
+Hillcrest,123.9,3,3,34,no,excellent,791500.0
+Old Town,126.6,2,1,65,yes,excellent,600200.0
+Hillcrest,148.4,4,4,7,yes,poor,644400.0
+Hillcrest,161.7,5,4,57,yes,good,794300.0
+Northgate,175.8,2,3,35,yes,fair,588400.0
+Old Town,89.7,1,1,71,yes,good,412300.0
+Marina,246.2,1,2,39,yes,fair,992200.0
+Hillcrest,208.3,4,4,10,yes,excellent,1053000.0
+Marina,188.5,4,4,62,yes,fair,852800.0
+Old Town,138.5,2,3,56,yes,excellent,642600.0
+Marina,150.9,3,4,8,no,fair,801400.0
+Marina,180.3,1,2,11,yes,good,955300.0
+Old Town,174.0,2,2,31,yes,good,704100.0
+Riverside,77.6,5,4,56,yes,good,533800.0
+Northgate,189.2,2,1,62,yes,good,628300.0
+Marina,289.5,5,4,2,yes,good,1210700.0
+Riverside,69.8,4,3,27,yes,poor,414600.0
+Marina,200.9,1,2,74,yes,poor,741200.0
+Old Town,172.0,2,2,66,yes,excellent,675400.0
+Hillcrest,149.9,2,1,4,no,fair,716100.0
+Northgate,218.3,3,3,57,yes,fair,710600.0
+Old Town,100.4,5,4,66,no,fair,429100.0
+Old Town,162.5,2,2,3,yes,good,661400.0
+Old Town,222.6,1,1,30,yes,excellent,854300.0
+Riverside,145.9,4,4,30,yes,good,679700.0
+Riverside,,4,4,62,yes,fair,550100.0
+Old Town,160.3,2,1,61,yes,fair,523900.0
+Riverside,134.4,4,3,45,yes,poor,526800.0
+Riverside,226.5,3,2,42,no,poor,657500.0
+Hillcrest,113.1,5,4,9,yes,poor,599300.0
+Riverside,195.4,5,4,53,yes,fair,694300.0
+Marina,97.1,2,1,38,yes,excellent,834800.0
+Northgate,185.9,4,4,79,no,fair,543700.0
+Old Town,150.1,3,4,5,no,good,685900.0
+Hillcrest,45.0,4,3,54,yes,fair,500600.0
+Hillcrest,154.7,2,2,41,yes,poor,602100.0
+Riverside,105.6,2,2,43,no,excellent,600000.0
+Riverside,134.4,1,2,79,no,fair,518200.0
+Northgate,,5,4,67,yes,fair,705500.0
+Hillcrest,103.3,3,4,31,no,excellent,765000.0
+Northgate,106.0,2,2,34,no,fair,443200.0
+Riverside,221.6,3,4,27,yes,fair,753000.0
+Hillcrest,160.4,5,4,0,yes,excellent,969200.0
+Northgate,226.3,5,4,23,yes,fair,745200.0
+Northgate,170.0,5,4,21,yes,excellent,780300.0
+Riverside,114.2,2,3,42,yes,fair,527100.0
+Hillcrest,151.9,4,4,47,yes,good,788700.0
+Old Town,211.9,3,3,78,no,fair,621500.0
+Marina,198.5,5,4,75,yes,fair,852200.0
+Riverside,155.0,4,4,56,yes,excellent,759400.0
+Old Town,157.3,3,3,48,yes,excellent,713500.0
+Northgate,149.8,3,2,23,no,fair,534700.0
+Hillcrest,128.2,4,4,22,yes,good,792100.0
+Hillcrest,244.4,3,4,39,no,fair,850100.0
+Northgate,155.3,1,1,79,yes,fair,441700.0
+Old Town,102.7,1,2,60,yes,poor,397200.0
+Riverside,132.9,5,4,32,yes,good,701600.0
+Old Town,188.6,2,2,46,no,good,664400.0
+Riverside,184.7,5,4,18,yes,good,798000.0
+Riverside,148.7,1,1,7,no,good,633600.0
+Hillcrest,124.1,1,1,44,yes,fair,622800.0
+Northgate,156.1,1,1,24,yes,fair,551900.0
+Hillcrest,77.6,2,3,27,yes,poor,477500.0
+Hillcrest,94.8,5,4,67,yes,good,654600.0
+Old Town,192.0,3,3,8,yes,excellent,860700.0
+Hillcrest,132.8,1,2,49,yes,good,708300.0
+Marina,172.3,4,4,57,yes,good,889800.0
+Hillcrest,211.4,5,4,35,yes,excellent,1077500.0
+Northgate,185.1,1,2,55,no,excellent,644500.0
+Hillcrest,156.0,3,4,7,yes,good,880400.0
+Riverside,253.5,5,4,77,yes,good,864900.0
+Hillcrest,185.9,2,3,73,no,fair,683400.0
+Hillcrest,138.6,2,3,10,no,good,802300.0
+Riverside,188.9,4,4,46,yes,good,781100.0
+Hillcrest,173.9,5,4,72,yes,good,796000.0
+Northgate,115.4,5,4,9,yes,fair,577900.0
+Riverside,158.4,4,3,63,yes,excellent,716300.0
+Hillcrest,147.4,2,3,36,yes,fair,701900.0
+Marina,64.0,3,2,20,yes,good,730700.0
+Old Town,147.0,1,2,78,yes,excellent,540500.0
+Old Town,141.9,2,2,38,yes,fair,548600.0
+Old Town,134.7,5,4,17,no,excellent,706100.0
+Hillcrest,78.9,1,1,50,yes,good,570800.0
+Marina,138.6,1,2,46,no,good,773600.0
+Hillcrest,153.2,1,2,25,no,fair,699900.0
+Riverside,,1,1,58,yes,fair,539100.0
+Northgate,102.5,4,3,8,yes,fair,471000.0
+Northgate,184.3,2,3,48,yes,good,633200.0
+Riverside,98.8,4,3,66,yes,good,494400.0
+Riverside,144.6,3,3,60,yes,good,653300.0
+Riverside,215.4,5,4,13,yes,good,847600.0
+Northgate,123.0,2,3,63,no,fair,409300.0
+Northgate,131.4,2,2,39,yes,fair,474800.0
+Riverside,204.7,1,1,7,yes,good,798500.0
+Old Town,137.2,5,4,35,yes,excellent,716000.0
+Riverside,141.3,5,4,22,no,fair,635800.0
+Hillcrest,165.2,2,2,72,yes,good,739100.0
+Northgate,203.5,2,1,29,yes,fair,624200.0
+Riverside,53.1,5,4,44,yes,excellent,529400.0
+Riverside,116.7,3,3,50,no,poor,470000.0
+Hillcrest,108.4,5,4,33,no,excellent,812400.0
+Hillcrest,104.9,2,2,10,yes,good,696000.0
+Marina,115.5,1,1,78,yes,fair,593400.0
+Old Town,,3,2,20,yes,good,608800.0
+Riverside,168.9,5,4,28,no,fair,685400.0
+Old Town,114.0,1,1,27,yes,good,526300.0
+Northgate,160.7,4,4,58,yes,good,610000.0
+Marina,173.5,1,1,6,no,excellent,1030200.0
+Riverside,121.3,4,3,18,yes,good,621800.0
+Northgate,161.0,5,4,72,yes,excellent,658500.0
+Old Town,230.5,5,4,60,no,good,770600.0
+Marina,169.9,4,3,45,no,fair,805000.0
+Riverside,125.6,3,3,60,yes,excellent,619400.0
+Northgate,152.0,1,1,27,yes,fair,516600.0
+Riverside,112.8,3,2,66,yes,excellent,611600.0
+Hillcrest,167.5,5,4,64,yes,excellent,897300.0
+Marina,194.7,2,1,38,yes,excellent,1067100.0
+Hillcrest,117.3,2,3,56,yes,good,628200.0
+Riverside,145.4,5,4,17,no,good,696000.0
+Riverside,206.2,3,3,21,yes,excellent,913900.0
+Old Town,132.1,5,4,50,no,good,547800.0
+Riverside,163.6,1,1,3,yes,excellent,766000.0
+Riverside,,1,1,72,yes,good,494700.0
+Riverside,117.3,4,4,61,yes,excellent,630400.0
+Hillcrest,131.4,4,4,24,yes,good,789300.0
+Old Town,,5,4,21,yes,good,889900.0
+Hillcrest,136.6,2,2,1,yes,poor,653000.0
+Old Town,131.2,2,3,28,yes,poor,464200.0
+Riverside,129.7,1,1,14,yes,fair,531500.0
+Old Town,147.5,4,4,70,yes,good,579900.0
+Marina,184.5,1,1,74,yes,fair,772900.0
+Old Town,163.5,5,4,16,yes,excellent,810800.0
+Old Town,247.6,3,2,0,no,poor,694200.0
+Marina,164.6,4,4,18,no,fair,843300.0
+Old Town,220.1,2,3,4,yes,excellent,933700.0
+Northgate,167.5,4,3,56,no,good,623200.0
+Northgate,182.3,2,1,7,yes,fair,636200.0
+Old Town,90.0,1,1,16,yes,good,506400.0
+Marina,149.3,1,2,71,yes,fair,730100.0
+Old Town,151.9,1,2,59,no,excellent,632500.0
+Riverside,144.1,2,2,30,yes,fair,604100.0
+Old Town,58.1,1,2,11,yes,excellent,491100.0
+Hillcrest,194.6,4,4,55,no,good,857800.0
+Northgate,137.6,2,1,24,no,excellent,617000.0
+Riverside,135.3,1,1,56,no,fair,553700.0
+Marina,,5,4,65,yes,excellent,953000.0
+Hillcrest,144.7,3,3,34,yes,fair,696800.0
+Riverside,173.3,4,4,11,yes,good,768100.0
+Northgate,97.8,4,4,58,yes,good,463500.0
+Marina,113.1,4,4,68,no,good,756600.0
+Riverside,168.1,1,2,36,no,good,642700.0
+Northgate,161.6,2,3,32,yes,good,575300.0
+Riverside,138.1,2,1,43,yes,fair,555200.0
+Riverside,129.2,3,3,70,yes,poor,428600.0
+Old Town,117.5,5,4,24,yes,good,601000.0
+Northgate,152.4,1,2,25,yes,good,592700.0
+Riverside,208.1,5,4,0,no,good,888700.0
+Northgate,107.4,3,3,2,yes,good,588200.0
+Hillcrest,223.5,5,4,47,no,excellent,1066800.0
+Riverside,193.0,5,4,77,no,fair,634300.0
+Hillcrest,134.6,1,1,21,yes,excellent,804800.0
+Hillcrest,190.2,2,3,21,no,fair,771500.0
+Hillcrest,89.0,4,3,22,no,good,667200.0
+Marina,77.1,3,4,24,no,excellent,775900.0
+Marina,97.0,3,3,70,yes,fair,644100.0
+Northgate,136.6,2,3,74,yes,good,497600.0
+Riverside,140.4,1,2,28,yes,fair,585600.0
+Northgate,131.8,5,4,37,no,poor,451500.0
+Old Town,159.5,3,3,8,no,good,672500.0
+Marina,58.9,1,2,16,yes,good,665400.0
+Northgate,177.3,5,4,50,yes,fair,588900.0
+Northgate,91.1,1,1,3,yes,excellent,502800.0
+Old Town,125.3,5,4,43,no,poor,463400.0
+Hillcrest,136.4,4,4,42,yes,fair,722500.0
+Northgate,103.0,2,1,4,no,fair,456300.0
+Northgate,93.3,2,2,38,no,fair,401200.0
+Old Town,109.7,1,1,27,yes,fair,442000.0
+Northgate,154.5,2,2,10,yes,poor,537800.0
+Old Town,181.5,5,4,48,yes,fair,617400.0
+Old Town,180.4,5,4,69,no,fair,605900.0
+Marina,110.2,5,4,22,yes,good,842100.0
+Hillcrest,119.4,4,4,44,yes,fair,633200.0
+Old Town,113.6,3,2,78,yes,good,491300.0
+Old Town,,5,4,68,yes,good,656200.0
+Old Town,63.3,2,3,63,yes,fair,346900.0
+Riverside,210.7,5,4,29,yes,fair,770200.0
+Riverside,133.2,3,4,40,yes,fair,572400.0
+Marina,119.7,3,2,4,yes,excellent,950800.0
+Hillcrest,170.3,4,4,73,no,good,785300.0
+Marina,201.5,3,3,1,no,fair,924200.0
+Northgate,170.4,3,2,2,yes,fair,620600.0
+Riverside,202.4,5,4,3,yes,excellent,954700.0
+Riverside,161.0,2,1,17,no,good,650800.0
+Old Town,210.3,5,4,71,yes,good,714500.0
+Old Town,211.0,2,2,73,yes,excellent,756200.0
+Marina,150.5,3,3,43,yes,fair,786700.0
+Old Town,219.8,2,2,40,yes,good,776700.0
+Old Town,162.4,1,1,26,yes,poor,473700.0
+Hillcrest,158.9,1,2,13,no,good,799400.0
+Riverside,113.5,3,2,51,yes,fair,458300.0
+Riverside,142.0,2,3,45,yes,good,605500.0
+Marina,190.0,5,4,39,yes,fair,885000.0
+Marina,95.9,5,4,58,yes,fair,634400.0
+Old Town,184.2,2,1,21,no,good,640900.0
+Hillcrest,170.7,1,1,48,yes,excellent,875900.0
+Riverside,,4,4,65,yes,fair,617500.0
+Old Town,55.7,4,4,3,no,fair,419800.0
+Hillcrest,150.4,2,3,33,yes,fair,688600.0
+Old Town,184.2,4,3,2,no,good,789200.0
+Old Town,120.7,1,1,11,yes,excellent,625800.0
+Hillcrest,159.1,3,3,32,yes,poor,637900.0
+Hillcrest,48.0,2,3,35,no,fair,520400.0
+Riverside,185.2,3,2,1,yes,fair,729600.0
+Marina,125.2,1,1,6,no,excellent,913700.0
+Riverside,194.2,2,1,6,yes,fair,736900.0
+Northgate,72.1,1,2,73,yes,poor,278200.0
+Riverside,186.2,4,3,51,no,good,734500.0
+Old Town,144.3,3,4,25,yes,excellent,716600.0
+Riverside,191.3,4,3,35,yes,good,749700.0
+Northgate,113.3,1,1,37,yes,fair,452600.0
+Old Town,127.2,4,3,6,no,good,615500.0
+Hillcrest,255.9,3,3,20,yes,good,1020900.0
+Northgate,117.7,3,4,70,yes,excellent,523200.0
+Northgate,123.2,2,2,14,no,good,557500.0
+Riverside,142.6,5,4,29,yes,poor,551300.0
+Hillcrest,109.0,4,3,37,no,good,688600.0
+Hillcrest,208.6,5,4,70,no,good,888200.0
+Marina,232.6,2,3,75,yes,good,994200.0
+Old Town,123.3,3,3,48,no,good,497600.0
+Old Town,77.3,4,4,56,yes,excellent,517200.0
+Riverside,207.7,4,4,49,yes,excellent,911700.0
+Riverside,204.9,3,4,41,yes,excellent,905700.0
+Hillcrest,192.0,2,3,33,yes,good,905400.0
+Riverside,207.0,2,3,28,yes,fair,728400.0
+Riverside,116.0,5,4,53,no,fair,541700.0
+Old Town,147.4,2,2,18,yes,fair,599400.0
+Riverside,92.7,4,4,19,yes,good,579700.0
+Riverside,91.2,4,4,50,no,good,557100.0
+Northgate,199.1,5,4,20,yes,excellent,885300.0
+Old Town,124.8,3,2,36,yes,excellent,643900.0
+Riverside,257.6,2,3,69,yes,fair,803900.0
+Marina,158.3,1,1,11,yes,fair,832200.0
+Riverside,126.2,5,4,16,no,fair,578200.0
+Riverside,190.9,3,2,77,yes,good,712800.0
+Northgate,236.1,1,1,30,yes,excellent,860000.0
+Northgate,176.9,1,2,38,yes,good,632700.0
+Hillcrest,100.2,3,4,59,yes,good,650200.0
+Riverside,171.7,3,2,78,no,fair,598900.0
+Old Town,216.9,1,1,26,yes,excellent,853500.0
+Riverside,132.8,5,4,39,yes,excellent,720100.0
+Riverside,120.2,1,1,29,yes,good,588800.0
+Riverside,200.7,2,3,69,no,fair,653700.0
+Riverside,161.3,4,3,72,yes,fair,571800.0
+Hillcrest,105.4,3,4,5,yes,good,731500.0
+Riverside,137.9,1,1,16,yes,excellent,708300.0
+Riverside,121.0,4,3,50,yes,fair,524200.0
+Northgate,168.3,2,3,19,no,good,644100.0
+Old Town,159.9,4,3,11,yes,poor,581000.0
+Old Town,206.8,1,1,70,yes,poor,573900.0
+Riverside,186.9,4,3,73,yes,fair,661800.0
+Marina,84.6,5,4,22,yes,excellent,901800.0
+Marina,173.3,2,2,49,yes,good,916800.0
+Hillcrest,195.4,1,1,26,yes,good,892500.0
+Hillcrest,175.5,3,2,12,no,good,846800.0
+Riverside,201.4,2,3,70,yes,fair,666300.0
